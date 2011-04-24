@@ -4,7 +4,7 @@ Donate link:http://benjaminsterling.com/donations/
 Tags: attachment, upload, edit, media, update, media manager,update attachments
 Requires at least: 3.0
 Tested up to: 3.1.1
-Stable tag: 0.3
+Stable tag: 0.3.1
 
 Give you the ability to upload files that you have in your Media Library.  It also let you insert more then one file into a post at a time.
 
@@ -14,7 +14,7 @@ Give you the ability to upload files that you have in your Media Library.  It al
 
 Please submit any bugs or suggested improvements to <a href=\"https://github.com/bmsterling/Attachment-Extender/issues\">https://github.com/bmsterling/Attachment-Extender/issues</a>
 
-Need this plugin customize or need a plugin create, contact me via my contact form at <a href=\"http://kenzomedia.com\">http://kenzomedia.com</a>
+Need this plugin customized or need a plugin created, contact me via my contact form at <a href=\"http://kenzomedia.com\">http://kenzomedia.com</a>
 
 Also available through twitter, @bmsterling
 

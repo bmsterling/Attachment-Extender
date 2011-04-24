@@ -4,7 +4,7 @@
 	Plugin URI: http://benjaminsterling.com/wordpress-attachment-extender/
 	Description: Give you the ability to update/upload new pictues, pdf, any file type that you have in your Media Library.  It also let you insert more then one file into a post at a time
 	Author: Benjamin Sterling
-	Version: 0.3
+	Version: 0.3.1
 	Author URI: http://benjaminsterling.com
 */
 /**
@@ -155,7 +155,7 @@ echo "
 jQuery(document).ready(function(){
 	jQuery('#media-single-form').attr('enctype','multipart/form-data');
 	/*jQuery('div.filename').filter('.new').hide();*/
-	var jqinsertAllbutton = jQuery('<input type=\"submit\" class=\"button insertAllbutton\" name=\"insertall\" value=\"". attribute_escape( __( 'Insert all checked' ) ) . "\"/>')
+	var jqinsertAllbutton = jQuery('<input type=\"submit\" class=\"button insertAllbutton\" name=\"insertall\" value=\"". esc_attr( __( 'Insert all checked' ) ) . "\"/>')
 	.appendTo('#library-form');
 	
 jQuery('.media-item')
